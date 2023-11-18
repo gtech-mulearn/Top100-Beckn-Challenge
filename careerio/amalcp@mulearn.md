@@ -7,6 +7,9 @@
 - Emphasized on creating responsive and intuitive user interfaces.
 - Ideation of the whole project with UI/UX designing of the project.
 
+### OpenAI integration with Front-end Client
+- Participated in brainstorming sessions and contributed to ideation processes.
+
 ## TheMaze App Front-End Development
 - Spearheaded the front-end development of TheMaze application.
 - Implemented user interface design and interactive elements to enhance user experience.
