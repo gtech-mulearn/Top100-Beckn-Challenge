@@ -1,6 +1,6 @@
 # Professional Experience and Responsibilities
 
-## Beckn Protocol Implementation
+## Careerio development
 
 ### Beckn Application Platform (BAP) and Beckn Provider Platform (BPP) Configuration
 - Successfully configured both the BAP and BPP components for implementing the Beckn protocol.
@@ -10,7 +10,10 @@
 - Wrote comprehensive functionality code for a front-end client application.
 - Emphasized on creating responsive and intuitive user interfaces.
 
-### TheMaze App Front-End Development
+### OpenAI integration with Front-end Client
+- Participated in brainstorming sessions and contributed to ideation processes.
+
+## TheMaze App Front-End Development
 - Spearheaded the front-end development of TheMaze application.
 - Implemented user interface design and interactive elements to enhance user experience.
 
