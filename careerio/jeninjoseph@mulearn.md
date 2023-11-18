@@ -33,3 +33,4 @@
 - TheMaze(Huddle Version) : https://github.com/Jenin82/huddle-app/tree/main
 - TheMaze(IEDC Summit Version) : https://github.com/Jenin82/iedc-summit-app/tree/main
 - Beckn Protocol : https://github.com/Jenin82/backen-network-for-hundredcoders/tree/master
+- Frontend Development of CareerIO : https://github.com/Jenin82/SkillSpectrum/tree/main
